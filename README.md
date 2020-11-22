@@ -1,4 +1,4 @@
-<p align="center"><img src="./eyes.png"></p>
+<p align="center"><img src="./ansiart-eyes.png"></p>
 <p>\ (× ﹏ ×) /</p>
 
 <!--
