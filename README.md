@@ -1,7 +1,7 @@
-![ANSI Art](eyes.png)
+<!--![ANSI Art](eyes.png)-->
 
 <p align="center">
-  <p>\ (× ﹏ ×) /</p>
+  \ (× ﹏ ×) /
   <img src="./eyes.png">
 </p>
 
