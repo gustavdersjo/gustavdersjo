@@ -1,6 +1,6 @@
 \ (× ﹏ ×) /
 
-[ANSIArt](rose.png)
+![ANSIArt](rose.png)
 
 <!--
 ### Hi there 👋
