@@ -1,9 +1,9 @@
 <!--![ANSI Art](eyes.png)-->
 
-<p align="center">
-  \ (× ﹏ ×) /
-  <img src="./eyes.png">
-</p>
+<div align="center">
+  <p>\ (× ﹏ ×) /</p>
+  <p><img src="./eyes.png"></p>
+</div>
 
 <!--
 ### Hi there 👋
